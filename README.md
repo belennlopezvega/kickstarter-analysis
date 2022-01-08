@@ -1,6 +1,6 @@
 # Kickstarter Analysis
 ## Overview of Project  
-### The purpose of this analysis is assist Louise in analyzing data surrounding theater campaigns and their fundraising goals. Louise's play came close to it's fundraising goals so she's interested in seeing how different campaigns' launch dates and funding goals went about. The findings and data presented below will show a clear picture as to when it is best to launch campaigns, and what fundraising goals prove to have a high success rate. Alternatively, it will also show when it's the worst time to launch a campaign, and what fundraising goals have a lower success rate. This will assist Louise in making any future decisions if she choose to put on another play in the future. 
+### The purpose of this analysis is to assist Louise in analyzing data surrounding theater campaigns and their fundraising goals. Louise's play came close to it's fundraising goals so she's interested in seeing how different campaigns' launch dates and funding goals went about. The findings and data presented below will show a clear picture as to when it is best to launch campaigns, and what fundraising goals prove to have a high success rate. Alternatively, it will also show when it's the worst time to launch a campaign, and what fundraising goals have a lower success rate. This will assist Louise in making any future decisions if she choose to put on another play in the future. 
 
 ## Analysis and Challenges
 
@@ -21,3 +21,15 @@ The table above shows outcomes of successful and failed plays based on their fun
 The data sets above prove easy to understand but there are some potential challenges that could easily be fixed. For starters, in the Outcomes Based on Launch Date Analysis, it would be beneficial to show the percentage of successful, failed and canceled kickstarters compared to the total to see how big those differences are. The graph itself adequately displays that information but to have those numbers would make it easier to understand the data and make further recommendations. As for the Outcomes Based on Goals Analysis there weren't many challenges, however there could be a difficulty when it comes to the outliers. There are two main outliers, one being the higher success rate later on as the goal got higher. In the graph, it makes it seem like there is a good likelihood that within that specific $35,000 to $44,999 range there is a possibility for a high success rate, but there were only 9 projects within that range which is a small number compared to the number of projects with lesser goals. The other outlier being the high number of projects with a goal Greather than $50,000 but with any number greater than $50,000 included in that goal, there are bound to be projects looking at that range thus making this outlier less significant. 
 
 ## Results
+
+### Outcomes Based on Launch Date
+The data shown in the Outcomes Based on Launch Date graph above concludes that not only where there more campaigns launched in the summer months, focusing on May and June specifically, but that the chances of those campaigns being successful are equally as high. Secondly, the winter months prove to be the worst months to launch a campaign as the chances of that campaign failing are significantly higher than in the summer. 
+
+### Outcomes Based on Goals 
+Based on data shown in the Outcomes Based on Goals graph, we can conclude that generally the lower the fundraising goal is, the higher the chances of that project being successful is. Alternatively, the higher the goal is, the higher is the likelyhood of the project to fail is. 
+
+### Summary of Limitations
+As far as limitations, there weren't many presented in this analysis. One potential limitation could be the sample size in both graphs. The sample in the Outcomes based on Launch Date was that of 1,369. There was still a clear trend but a larger data set could have possibly shown higher discrepancies. As for the Outcomes Based on Goals, there were a lot of projects from which data was gathered and they only seem to go down as the goal rose. Had there been more projects, it's likely we would've still come to the same conclusion. 
+
+### Additional Graphs
+A graph that could have been insightful to include in this analysis is seeing how long campaigns ran. This information could lead Louise to better gage the duration of any future campaings, and their likelihood to meet their goal in a set amount of time. It could also show trends in how likely campaigns with higher goals versus lower goals are able to meet their goals and possibly create an understanding as to why campaigns fail at their goals. 
